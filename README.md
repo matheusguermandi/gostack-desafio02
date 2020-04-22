@@ -21,3 +21,18 @@ Para esse desafio temos os seguintes testes:
 - **`should be able to give a like to the repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório com o id informado possa receber likes. O valor de likes deve ser incrementado em 1 a cada requisição, e como resultado, retornar um json contendo o repositório com o número de likes atualizado.
 
 - **`should not be able to like a repository that does not exist`**: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status `400`.
+
+
+## Instalação e execução
+
+1. Faça um clone desse repositório;
+   git clone https://github.com/matheusguermandi/gostack-desafio02.git
+   
+2. Com o terminal aberto, verifique se está na pasta `gostack-desafio02`;
+   Caso não esteja execute o comando `cd gostack-desafio02`
+   
+3. Execute `yarn` para realizar a instalação das dependencias;
+
+4. Execute `yarn dev` para realizar a inicialização da aplicação;
+
+5. Execute `yarn test` caso queira rodar os teste automazados.
