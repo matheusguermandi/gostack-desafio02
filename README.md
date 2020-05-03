@@ -1,4 +1,8 @@
-# Desafio: Conceitos NodeJS - BootCamp GoStack 11.0
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
+<h3 align="center">
+  👨🏻‍🚀 Desafio: Conceitos Node.js ✔️ BOOTCAMP GOSTACK 11.0 🚀
+</h3>
 
 ### Específicação dos testes
 
@@ -33,6 +37,6 @@ Para esse desafio temos os seguintes testes:
    
 3. Execute `yarn` para realizar a instalação das dependencias;
 
-4. Execute `yarn dev` para realizar a inicialização da aplicação;
+4. Execute `yarn dev:server` para realizar a inicialização da aplicação;
 
-5. Execute `yarn test` caso queira rodar os teste automazados.
+5. Execute `yarn test` caso queira rodar os testes automatizados.
